@@ -18,7 +18,6 @@ Here are some ideas to get you started: -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyuDhyani&layout=compact&langs_count=10)
 <br />
 <br />
-
 Contributions to my repositories are welcomed!
 <!--
 ?username=anuraghazra&hide=javascript,html

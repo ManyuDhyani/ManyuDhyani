@@ -7,15 +7,13 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Delhi, India</h3>
 
-<h3 align="left">Overview:</h3>
+<h3 align="left">My Bio:</h3>
 
 - 🔭 I’m currently working in Traveloft India.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Mobile Dev, Web Dev and Recommender Engine.
 - 💬 Ask me about HashStrix.
-- 📫 How to reach me: 📧 manyudhyani@gmail.com 
 - ⚡ Fun fact: There are around 9000 different programming languages in the world.
-
 
 <h3 align="left">Languages and tools that I use:</h3>
 

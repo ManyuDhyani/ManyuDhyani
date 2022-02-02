@@ -35,6 +35,10 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="digitalOcean" width="30" height="30"/> </a>
 <a href="https://aws.amazon.com/free/?trk=ps_a134p000003yhlXAAQ&trkCampaign=acq_paid_search_brand&sc_channel=ps&sc_campaign=acquisition_IN&sc_publisher=google&sc_category=core-main&sc_country=IN&sc_geo=APAC&sc_outcome=Acquisition&sc_detail=aws&sc_content=Brand_Core_aws_e&sc_matchtype=e&sc_segment=453325184782&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&ef_id=Cj0KCQiA9OiPBhCOARIsAI0y71DShYyKrtLZ1TRj786GstIyFTzHFepT7uaTUFQ80oacnRIUTyO1KjAaAiaIEALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="digitalOcean" width="30" height="30"/> </a>
 
+Other Tools: <a href="https://unity.com/" target="_blank"> <img src="https://ih1.redbubble.net/image.2494621821.4213/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="unity" width="30" height="30"/> </a>
+<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30" height="30"/> </a>
+
+<i class="fa-brands fa-unity"></i>
 ![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ManyuDhyani&count_private=true&show_icons=true&theme=radical&hide_pr=false&hide=prs,issues,contribs)
 <br />
 <br />

@@ -55,7 +55,7 @@ Contributions to my repositories are welcomed!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">-->
 ## Connect with me:
 <!-- <a href="https://codepen.io/nayyyhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nayyyhaa" height="30" width="30" /></a> -->
-<a href="manyudhyani@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="nayyyhaa" height="30" width="30" /></a>
+<a href="mailto:manyudhyani@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://hashstrix.com/profile/account/" target="blank"><img align="center" src="https://hashstrix-static-space.sgp1.cdn.digitaloceanspaces.com/hashstrix-static-files/favicon.ico/favicon.ico" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://twitter.com/ManyuDh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/manyu-dhyani-b3039217a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayyyhaa" height="30" width="30" /></a>

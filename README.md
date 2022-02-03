@@ -45,7 +45,7 @@ Other Tools: <a href="https://unity.com/" target="_blank"> <img src="https://ih1
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyuDhyani&layout=compact&langs_count=10)
 <br />
 <br />
-Contributions to my repositories are welcomed!
+Contribution to my repositories are welcomed!
 
 <!--
 ?username=anuraghazra&hide=javascript,html

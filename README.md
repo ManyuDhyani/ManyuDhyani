@@ -48,7 +48,7 @@ Other Tools: <a href="https://unity.com/" target="_blank"> <img src="https://ih1
 ![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ManyuDhyani&count_private=true&show_icons=true&theme=radical&hide_pr=false&hide=prs,issues,contribs)
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyuDhyani&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyuDhyani&layout=compact&langs_count=10&hide=css,html)
 <br />
 <br />
 Contribution to my repositories are welcomed!

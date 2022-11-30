@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/manyu-dhyani-b3039217a/" target="blank"><img src="" alt="manyudhyani" /></a> </p>
 -->
 
-<h3 align="center">I'm a passionate Full Stack Developer from Delhi, India</h3>
+<h3 align="center">I'm a passionate Software Developer from Delhi, India</h3>
 
 <h3 align="left">My Bio:</h3>
 
@@ -13,6 +13,7 @@
 - 🌱 I’m currently doing my final project in Web Development called Event Rally (Stack: MongoDB, Express, HTML/CSS, Node.js).
 - 👯 I’m looking to collaborate on Mobile Dev, Web Dev and Recommender Engine.
 - 💬 Ask me about HashStrix.
+- 💼 I have 2 years experience, working as Full Stack Developer in Traveloft India.
 - ⚡ Fun fact: There are around 9000 different programming languages in the world.
 
 <h3 align="left">Languages and tools that I use:</h3>

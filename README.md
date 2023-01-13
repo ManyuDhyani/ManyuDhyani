@@ -45,12 +45,6 @@
 Other Tools: <a href="https://unity.com/" target="_blank"> <img src="https://ih1.redbubble.net/image.2494621821.4213/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="unity" width="30" height="30"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30" height="30"/> </a>
 
-<i class="fa-brands fa-unity"></i>
-![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ManyuDhyani&count_private=true&show_icons=true&theme=radical&hide_pr=false&hide=prs,issues,contribs)
-<br />
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyuDhyani&layout=compact&langs_count=10&hide=css,html)
-<br />
 <br />
 Contribution to my repositories are welcomed!
 
@@ -65,7 +59,6 @@ Contribution to my repositories are welcomed!
 ## Connect with me:
 <!-- <a href="https://codepen.io/nayyyhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nayyyhaa" height="30" width="30" /></a> -->
 <a href="mailto:manyudhyani@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="nayyyhaa" height="30" width="30" /></a>
-<a href="https://hashstrix.com/profile/account/" target="blank"><img align="center" src="https://hashstrix-static-space.sgp1.cdn.digitaloceanspaces.com/hashstrix-static-files/favicon.ico/favicon.ico" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://twitter.com/ManyuDh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/manyu-dhyani-b3039217a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayyyhaa" height="30" width="30" /></a>
 <a href="https://www.instagram.com/hashstrix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehacode" height="30" width="30" /></a>

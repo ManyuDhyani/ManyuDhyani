@@ -10,7 +10,7 @@
 <h3 align="left">My Bio:</h3>
 
 - 🔭 I’m currently pursuing my Masters of Science in Computer Science from Stevens Institute of Technology, New Jersey, USA.
-- 🌱 I’m currently doing my final project in Web Development called Event Rally (Stack: MongoDB, Express, HTML/CSS, Node.js).
+- 🌱 I’m currently doing my final project in Web Development called MovieMaster an OTT Platform (Stack: MongoDB, Express.js, Node.js, GraphQL, React, Redux, Redis, HTML/CSS).
 - 👯 I’m looking to collaborate on Mobile Dev, Web Dev and Recommender Engine.
 - 💬 Ask me about HashStrix.
 - 💼 I have 2 years experience, working as Full Stack Developer in Traveloft India.
@@ -18,14 +18,22 @@
 
 <h3 align="left">Languages and tools that I use:</h3>
 
-**FRONTEND**: <a href="https://flutter.dev/?gclid=Cj0KCQiA0eOPBhCGARIsAFIwTs74hg3jDMN6RACWOl1MIW-dWkPJfq8frRSxroSk8d-N45ePY1_BRlQaAjbbEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> 
+**FRONTEND**: <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/> 
+   <a href="https://mui.com/" target="_blank"> <img src="https://v4.material-ui.com/static/logo.png" alt="mui" width="30" height="30"/> 
+<a href="https://flutter.dev/?gclid=Cj0KCQiA0eOPBhCGARIsAFIwTs74hg3jDMN6RACWOl1MIW-dWkPJfq8frRSxroSk8d-N45ePY1_BRlQaAjbbEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
 <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
 
-**BACKEND**:   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a><a href="https://expressjs.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1280px-Express_Clothing_Logo.SVG.png" alt="express" width="auto" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+**BACKEND**:   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" width="30" height="30"/> </a> 
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
+ <a href="https://expressjs.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Express_Clothing_Logo.SVG/1280px-Express_Clothing_Logo.SVG.png" alt="express" width="auto" height="30"/> </a> 
+   <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="auto" height="30"/> </a> 
+     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.thenewstack.io/media/2021/11/d74beaeb-next-js.png" alt="Nextjs" width="auto" height="30"/> </a> 
+       <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://qph.cf2.quoracdn.net/main-qimg-d06e73bbb0a75dd313f6919b6144d02d" alt="Flask" width="auto" height="30"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 
 **DATABASE**: <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a><a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> </a> <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
 
